@@ -22,7 +22,7 @@
     "postgresql": "0.0.1",
     "psql": "0.0.1",
     "reactstrap": "^8.7.1",
-    "serve": "^11.3.2"
+    "serve": "^13.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
